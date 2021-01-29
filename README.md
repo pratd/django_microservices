@@ -8,7 +8,7 @@ The complete application also used [REACT FRAMEWORK](https://reactjs.org/) for i
 
 The repository for the main app is:
 - [Main app](https://github.com/pratd/flask_app)
-
+- [Frontend app](https://github.com/pratd/REACT_CRUD_frontend)
 
 To run the app, run the docker-compose files as:
 ```
